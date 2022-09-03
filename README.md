@@ -1,5 +1,5 @@
 # Chat
-This is a chat project within the skillfactory C++ cource
+This is a chat project within the skillfactory C++ cource.
 The chat has two parts of the program: client part and server part.
 Both parts has a TCP realization. 
 Functional of the server and the client are reperesents as classes.
