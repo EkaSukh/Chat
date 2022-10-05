@@ -1,10 +1,10 @@
 # Chat
 The chat has two parts of the program: client part and server part.
 
-TCP/IP socket
-classes
-template
-STL map, vector
+TCP/IP socket,
+classes,
+template,
+STL map, STL vector,
 file input/output
 
 # Build
